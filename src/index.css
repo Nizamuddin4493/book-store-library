@@ -12,7 +12,7 @@ body {
 .links {
   margin-top: 10px;
   display: flex;
-  flex-direction: row;  
+  flex-direction: row;
 }
 
 h2 {
