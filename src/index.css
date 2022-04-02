@@ -4,6 +4,35 @@ body {
   box-sizing: border-box;
 }
 
-h1 {
+.header {
+  display: flex;
+  flex-direction: row;
+}
+
+.links {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+h2 {
+  margin-left: 20px;
+}
+
+.Book-Author {
+  margin-left: 30px;
+}
+
+.btn {
+  margin-left: 30px;
+}
+
+.input-form {
+  margin-left: 20px;
+}
+
+.headerHr {
   color: green;
+  height: 5px;
+  background-color: green;
 }
