@@ -1,9 +1,19 @@
 import React from 'react';
+import { Route, Routes } from 'react-router-dom';
+import Books from './components/Books';
+import Categories from './components/Categories';
+import Header from './components/Header';
 
-const App = () => {
+function App() {
   return (
-    <h1>Hello world.</h1>
-  )
+    <>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Books />} />
+        <Route path="/categories" element={<Categories />} />
+      </Routes>
+    </>
+  );
 }
 
 export default App;
