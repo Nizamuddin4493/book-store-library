@@ -44,3 +44,4 @@ Feel free to check the [issues page](https://github.com/sediqullahbadakhsh/books
 Give a ⭐️ if you like this project!
 
 ## 📝 License
+This project is ISC licensed.
