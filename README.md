@@ -9,7 +9,7 @@
 ### Clone this repository
 
 ```bash
-$ git clone git@github.com:Sahar-AbdelSamad/bookstore.git
+$ git@github.com:Nizamuddin4493/book-store-library.git
 $ cd bookstore
 ```
 
